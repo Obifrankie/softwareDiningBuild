@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'softwareDiningClient'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7D0F9874CD12430FB71A188A7825440F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_479F719D37D74860BE6409075247F649 }}
           package: .
